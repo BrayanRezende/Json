@@ -1,4 +1,29 @@
-,
+{
+    "cards": [
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/risco-de-incendio.png", 
+        "name": "incendio", 
+        "question": "Considerando as fontes de ignição e materiais combustíveis, qual fator é geralmente apontado como o principal disparador de incêndios em ambientes industriais?",
+        "alternatives": [
+          "Curto-circuitos inesperados em instalações elétricas inadequadas",
+          "Acúmulo descontrolado de resíduos inflamáveis",
+          "Falta de manutenção preventiva e extintores insuficientes",
+          "Uso indiscriminado de equipamentos que geram faíscas"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/choque-eletrico.png", 
+        "name": "choque", 
+        "question": "Em sistemas elétricos, qual situação de risco eleva significativamente a possibilidade de choque elétrico acidental?",
+        "alternatives": [
+          "Contato direto com equipamentos energizados sem proteção adequada",
+          "Exposição prolongada a áreas com alta umidade sem medidas de isolamento",
+          "Instalação inadequada de dispositivos de proteção contra surtos",
+          "Falta de sinalização adequada em áreas de alta tensão"
+        ],
+        "correctIndex": 0
+      },
       { 
         "img": "https://conectassma.com.br/static/img/cards/queda-de-altura.png", 
         "name": "altura", 
@@ -59,3 +84,6 @@
         ],
         "correctIndex": 0
       }
+    ]
+  }
+  
