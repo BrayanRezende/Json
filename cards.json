@@ -1,0 +1,89 @@
+{
+    "cards": [
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/risco-de-incendio.png", 
+        "name": "incendio", 
+        "question": "Considerando as fontes de ignição e materiais combustíveis, qual fator é geralmente apontado como o principal disparador de incêndios em ambientes industriais?",
+        "alternatives": [
+          "Curto-circuitos inesperados em instalações elétricas inadequadas",
+          "Acúmulo descontrolado de resíduos inflamáveis",
+          "Falta de manutenção preventiva e extintores insuficientes",
+          "Uso indiscriminado de equipamentos que geram faíscas"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/choque-eletrico.png", 
+        "name": "choque", 
+        "question": "Em sistemas elétricos, qual situação de risco eleva significativamente a possibilidade de choque elétrico acidental?",
+        "alternatives": [
+          "Contato direto com equipamentos energizados sem proteção adequada",
+          "Exposição prolongada a áreas com alta umidade sem medidas de isolamento",
+          "Instalação inadequada de dispositivos de proteção contra surtos",
+          "Falta de sinalização adequada em áreas de alta tensão"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/queda-de-altura.png", 
+        "name": "altura", 
+        "question": "Levando em conta os riscos de quedas em locais elevados, qual prática é considerada fundamental para reduzir esses acidentes em operações industriais?",
+        "alternatives": [
+          "Utilização obrigatória de equipamentos de proteção individual (EPIs) e ancoragens seguras",
+          "Instalação de guarda-corpos e rede de proteção em todas as áreas elevadas",
+          "Manutenção regular e inspeção dos acessos e plataformas de trabalho",
+          "Todas as alternativas acima"
+        ],
+        "correctIndex": 3
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/impacto-ambiental.png", 
+        "name": "ambiental", 
+        "question": "Qual abordagem é considerada mais eficaz para minimizar impactos ambientais em processos industriais?",
+        "alternatives": [
+          "Implementação de programas de sustentabilidade e economia circular",
+          "Aumento da produção industrial sem controle de resíduos",
+          "Uso intensivo de recursos naturais sem reciclagem",
+          "Adoção de medidas paliativas apenas quando ocorrerem incidentes"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/treinamento-obrigatorio.png", 
+        "name": "treinamento", 
+        "question": "Por que o treinamento contínuo dos colaboradores é considerado uma prática indispensável para a segurança no ambiente de trabalho?",
+        "alternatives": [
+          "Porque promove o conhecimento sobre riscos e o uso correto dos equipamentos de segurança",
+          "Apenas para reduzir custos operacionais a longo prazo",
+          "Principalmente para aumentar a produtividade, sem foco na prevenção de acidentes",
+          "Para melhorar a imagem da empresa no mercado, independentemente da segurança"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/risco-quimico.png", 
+        "name": "quimico", 
+        "question": "Ao analisar ambientes com riscos químicos, qual dos seguintes fatores caracteriza a presença de um risco potencial?",
+        "alternatives": [
+          "A presença de substâncias reativas e tóxicas sem medidas de contenção adequadas",
+          "A baixa eficiência dos equipamentos de proteção individual",
+          "Excesso de limpeza e ventilação inadequada",
+          "Somente a cor e o cheiro dos produtos químicos"
+        ],
+        "correctIndex": 0
+      },
+      { 
+        "img": "https://conectassma.com.br/static/img/cards/risco-mecanico.png", 
+        "name": "mecanico", 
+        "question": "Em termos de segurança operacional, quais riscos estão associados a falhas mecânicas em equipamentos?",
+        "alternatives": [
+          "Danos estruturais e lesões causadas por peças em movimento sem manutenção preventiva",
+          "Excesso de carga que não afeta a segurança dos operadores",
+          "Mau uso de equipamentos que não necessita de treinamento",
+          "Apenas problemas na estética dos equipamentos"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  }
+  
